@@ -1,4 +1,5 @@
 //your code here
+
 let itemInput = document.getElementById('item-name-input');
 let priceInput = document.getElementById('item-price-input');
 
